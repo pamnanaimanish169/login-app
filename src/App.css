@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+/* 28/12/2021 START */
+.App > div {
+  width: 50%;
+  margin: 0 auto;
+}
+/* 28/12/2021 END */

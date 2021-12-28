@@ -1,7 +1,7 @@
 # Next Steps
 
-- Install bootstrap for react
-- Make a simple design for login screen
+- ~~Install bootstrap for react~~
+- ~~Make a simple design for login screen~~
 - Provide validations in HTML
   - Include following fields
     - Email address -> validation for email and text
